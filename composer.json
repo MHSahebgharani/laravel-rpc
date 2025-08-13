@@ -5,7 +5,6 @@
   "license": "MIT",
   "require": {
     "php": ">=8.1",
-    "illuminate/support": "^10.0|^11.0",
     "php-amqplib/php-amqplib": "^3.5"
   },
   "autoload": {
