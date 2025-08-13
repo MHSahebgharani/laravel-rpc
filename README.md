@@ -21,13 +21,14 @@ It lets your Laravel services call each other **synchronously** (like a local fu
 ### 1) Require the package
 
 ```bash
-composer require rabbit/rpc
+composer require laravel-rpc-rabbitmq
 ```
+
 
 If you are installing from a local path:
 
 ```bash
-composer config repositories.rabbit-rpc path packages/laravel-rabbitmq-rpc
+composer config repositories.rabbit-rpc path packages/laravel-rpc-rabbitmq
 composer require rabbit/rpc:*
 ```
 

@@ -1,5 +1,5 @@
 {
-  "name": "trigup/laravel-rpc-rabbitmq",
+  "name": "laravel-rpc-rabbitmq",
   "description": "Request/Reply (RPC) over RabbitMQ for Laravel, using direct-reply-to.",
   "type": "library",
   "license": "MIT",
