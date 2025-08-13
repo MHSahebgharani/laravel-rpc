@@ -8,6 +8,6 @@ class Rpc extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'trigup.rpc.client';
+        return 'rpc.client';
     }
 }
